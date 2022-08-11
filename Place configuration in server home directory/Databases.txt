@@ -1,0 +1,15 @@
+# This is a comment
+# Any line starting with a "#" is considered a comment
+# Make sure each of your database connections doesn't have a "#" in front!
+# Put each database connection you want on a separate line
+# The databasename MUST be unique!
+# For an example, see the following
+#databasetype,databasename,ipaddress,port,username,password
+#
+#mysql,arma,127.0.0.1,3306,armausername,secret
+mysql,arma3life,127.0.0.1,3306,root,
+
+mysql,asylumlife1,127.0.0.1,3306,root,
+#sqlite,weaponslite
+
+#sqlite,weapons
